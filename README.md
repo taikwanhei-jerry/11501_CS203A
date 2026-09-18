@@ -6,7 +6,7 @@
 - **學校**：元智大學 Yuan Ze University (YZU)
 
 ## 學生資訊 (Student Info)
-- **姓名**：[戴君羲]
+- **姓名**：戴君羲
 - **學號**：s1121549
 
 ## Repository 說明 (Repository Description)
@@ -28,7 +28,7 @@
 ## 學習紀錄 (Learning Log)
 | 週次 | 主題 | 連結 |
 |------|------|------|
-| Week 1 | GitHub / Markdown 基礎 | [Assignment I](./assignments/assignment1.md) |
+| Week 1 | GitHub / Markdown 基礎 | [Assignment I]|
 
 ---
 *Last updated: 2026-09-17*
