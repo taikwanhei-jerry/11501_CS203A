@@ -28,7 +28,7 @@
 ## 學習紀錄 (Learning Log)
 | 週次 | 主題 | 連結 |
 |------|------|------|
-| Week 1 | GitHub / Markdown 基礎 | [Assignment I]|
+| Week 1 | GitHub / Markdown 基礎 | Assignment I|
 
 ---
 *Last updated: 2026-09-17*
